@@ -3,6 +3,7 @@
 @section('content')
 
 
+
 <div class="relative px-8 pt-8 pb-20 mx-auto xl:px-5 max-w-7xl sm:px-6 lg:pt-10 lg:pb-28">
     <div class="absolute inset-0">
         <div class="bg-white h-1/3 sm:h-2/3"></div>
